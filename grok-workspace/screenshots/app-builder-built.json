@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "میز میو",
+      "hasCanvas": false,
+      "bodyTextLen": 176,
+      "bodyTextHash": "a252ba08697ffad87751c8d1f9ea12de985cf504993b70ec37aa74d841ddc49c",
+      "bodyTextPrefix": "میز میو امروز ۰۰:۰۰:۰۰ ۰۰:۰۰:۰۰ گربه گوشی دستشه جلسه‌های ذخیره‌ش",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "میز میو",
+      "hasCanvas": false,
+      "bodyTextLen": 176,
+      "bodyTextHash": "a252ba08697ffad87751c8d1f9ea12de985cf504993b70ec37aa74d841ddc49c",
+      "bodyTextPrefix": "میز میو امروز ۰۰:۰۰:۰۰ ۰۰:۰۰:۰۰ گربه گوشی دستشه جلسه‌های ذخیره‌ش",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
